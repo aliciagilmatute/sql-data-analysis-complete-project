@@ -10,6 +10,7 @@
 
 ![Data Analytics Roadmap](docs/data-analytics_roadmap.png)
 
+
 ## 🎯 ¿Qué aprenderás con este proyecto?
 
 Este repositorio es una **guía práctica de análisis de datos con SQL puro**. Si lo estudias y ejecutas, serás capaz de:
