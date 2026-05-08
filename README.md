@@ -6,9 +6,9 @@
 ![Status](https://img.shields.io/badge/estado-completo-brightgreen?style=flat)
 
 > Colección de scripts SQL (PostgreSQL / PLpgSQL) que aplica técnicas avanzadas de Análisis de Datos sobre un modelo de datos de ventas y clientes.
+---
 
 ![Data Analytics Roadmap](docs/data-analytics_roadmap.png)
----
 
 ## 🎯 ¿Qué aprenderás con este proyecto?
 
