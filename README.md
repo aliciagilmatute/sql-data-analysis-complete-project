@@ -292,6 +292,7 @@ Este repositorio es la segunda parte de un flujo completo de datos. El origen de
 Este proyecto está licenciado bajo la **Licencia MIT** — consulta el archivo [LICENSE](LICENSE.txt) para más detalles.
 
 Eres libre de usar, modificar y distribuir este proyecto con la atribución correspondiente.
+
 ---
 
 *¿Tienes sugerencias o mejoras? ¡Las contribuciones son bienvenidas! Abre un issue o un pull request.*
